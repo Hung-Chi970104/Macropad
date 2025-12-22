@@ -9,4 +9,5 @@ My goal is to build a macropad with 9 keys, and I will be making it a numpad fir
 
 ## How to experience
 - For non Kicad or Fusion 360 (or at least a 3D viewing software) pls use use this link to view the project
+  https://www.printables.com/model/1522721-macropad
 - For Kicad and Fusion 360 uers I assume you already know what to do
