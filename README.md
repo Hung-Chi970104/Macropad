@@ -1,7 +1,7 @@
 # From Zero to Macropad
 This is my first time designing a PCB and 3D modeling using fusion 360.
 My goal is to build a macropad with 9 keys, and I will be making it a numpad first. Firmware can always be adjusted to your need.
-Quick glance: https://skfb.ly/pGsA6
+- Quick glance: https://skfb.ly/pGsA6
 ![macropad](assets/macropad.png)
 
 ## Components
